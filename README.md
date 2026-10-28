@@ -27,7 +27,4 @@ A maioria dos PDFs está em `references/`; confirme modelo e versão antes de co
 
 ## Fontes e uso
 
-A skill contém sínteses técnicas e documentos de terceiros, cujos direitos permanecem com seus respectivos titulares. Não foi atribuída licença de redistribuição a esses materiais. Este repositório deve permanecer privado sem autorização adequada dos titulares.
-
-Exemplos não foram executados em robô ou URSim. A skill não certifica a instalação nem substitui os manuais e a validação da aplicação.
-
+A skill contém sínteses técnicas e documentos de terceiros, cujos direitos permanecem com seus respectivos titulares. 
