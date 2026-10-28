@@ -1,0 +1,1596 @@
+[
+  {
+    "name": "Advanced_PPP_skr_draft_0.4.pptx",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Advanced\\Advanced_PPP_skr_draft_0.4.pptx",
+    "sha256": "11b76a27ccdbe9eef99e04d715c84a4582698c2a049007700a4f8bd68683815e",
+    "slides": 132,
+    "collection": "Advanced"
+  },
+  {
+    "name": "Advanced_Reference-Guide_skr_draft_0.2.docx.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Advanced\\Advanced_Reference-Guide_skr_draft_0.2.docx.pdf",
+    "sha256": "d8079f9515354c447c69926b0faf164bd64b5acbabee953d48347c4f166d4487",
+    "pages": 35,
+    "low_text_pages": [],
+    "collection": "Advanced"
+  },
+  {
+    "name": "Advanced_Workbook_skr_draft_0.3.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Advanced\\Advanced_Workbook_skr_draft_0.3.pdf",
+    "sha256": "c08b51ee23261a556ad57cac8521b4432d3d555160c9ad51f764df0d2e5d3d72",
+    "pages": 30,
+    "low_text_pages": [
+      1,
+      2,
+      8,
+      9
+    ],
+    "collection": "Advanced"
+  },
+  {
+    "name": "Apresentacao.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Advanced\\Apresentacao.pdf",
+    "sha256": "01cfe9ca044432c95eff6be0ec225ef1f61f2fdbec3fbcb4bfc212c36571200c",
+    "pages": 230,
+    "low_text_pages": [
+      1,
+      2,
+      5,
+      10,
+      16,
+      22,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      64,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      80,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      113,
+      115,
+      117,
+      127,
+      130,
+      131,
+      132,
+      133,
+      134,
+      136,
+      138,
+      145,
+      149,
+      157,
+      159,
+      162,
+      163,
+      172,
+      186,
+      190,
+      193,
+      200,
+      202,
+      223
+    ],
+    "collection": "Advanced"
+  },
+  {
+    "name": "Core_training_e-Series_Presentation_EN_Final_Draft.pptx",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Core\\Core_training_e-Series_Presentation_EN_Final_Draft.pptx",
+    "sha256": "32e9464c00b736ecafe67145961605b1e739b5ebfdfa29cbd7a2822080fee68c",
+    "slides": 132,
+    "collection": "Core"
+  },
+  {
+    "name": "Core_training_e-Series_Reference_guide_EN.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Core\\Core_training_e-Series_Reference_guide_EN.pdf",
+    "sha256": "7a7d246775cdf1a37105c59649321f7305f6db595a50b9f5c44595819e15ee59",
+    "pages": 69,
+    "collection": "Core"
+  },
+  {
+    "name": "Core_training_e-Series_Workbook_EN.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Core\\Core_training_e-Series_Workbook_EN.pdf",
+    "sha256": "0f72e903112a6389737fb14583727511c594215ba9eb09fd1ee64c532716e156",
+    "pages": 20,
+    "collection": "Core"
+  },
+  {
+    "name": "Industial Communicaiton ReferenceGuide Ver 0.2.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Industrial_Comm\\Industial Communicaiton ReferenceGuide Ver 0.2.pdf",
+    "sha256": "938f38ae5049d69b1766595c68b6085c7928cc574289ed337e8fc818b616692a",
+    "pages": 24,
+    "collection": "Industrial Communications"
+  },
+  {
+    "name": "Industial communications Workbook_Ver 0.2.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Industrial_Comm\\Industial communications Workbook_Ver 0.2.pdf",
+    "sha256": "2c96f9690b9fd63566ff0c8a5db42f021cffe619c4e59a258f6eda6bd4264a5e",
+    "pages": 11,
+    "collection": "Industrial Communications"
+  },
+  {
+    "name": "Industrial Communications_Ver 0.1.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Industrial_Comm\\Industrial Communications_Ver 0.1.pdf",
+    "sha256": "79e10b598a2ee194fc5b9ba7593ee8d6c32223eba305b6b9883464957b14606b",
+    "pages": 77,
+    "collection": "Industrial Communications"
+  },
+  {
+    "name": "Interfaces_ReferenceGuide_v1.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Interface_Comm\\Interfaces_ReferenceGuide_v1.pdf",
+    "sha256": "8f3c6a2a8e6f96ea438bf91d07343aacd763095e8d7bc03da923a5bb5130c9e1",
+    "pages": 24,
+    "collection": "Interfaces"
+  },
+  {
+    "name": "Interfaces_v1.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Apostilas treinamento E-series\\Interface_Comm\\Interfaces_v1.pdf",
+    "sha256": "e20737f4578c44c69358806457099297ad5a0975ec45718484db2a7d04e78eb6",
+    "pages": 66,
+    "collection": "Interfaces"
+  },
+  {
+    "name": "Installation Guide V1.3.3_ENGLISH.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\Installation Guide V1.3.3_ENGLISH.pdf",
+    "sha256": "5061916e32aeb9151ebf074d13cdf638e35c84a3ea03cf6ae08694c784cb534c",
+    "bytes": 321428,
+    "pages": 12,
+    "words": 2385,
+    "low_text_pages": 0,
+    "layout_words": 2313,
+    "layout_chars": 16528,
+    "layout_text_method": "pypdfium2",
+    "alias": "IG",
+    "collection": "Manuais",
+    "coverage": "Recomendações de implantação; ch21",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "install-new-image-all-types.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\install-new-image-all-types.pdf",
+    "sha256": "0a353283cbc77dbd5769f434113c0a4f0630d2d900c8c4e0e5e5672092649d55",
+    "bytes": 437790,
+    "pages": 10,
+    "words": 1126,
+    "low_text_pages": 0,
+    "layout_words": 1109,
+    "layout_chars": 8268,
+    "layout_text_method": "pypdfium2",
+    "alias": "IMG",
+    "collection": "Manuais",
+    "coverage": "Nova imagem/mídia; ch23",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "pn-iomessage.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\pn-iomessage.pdf",
+    "sha256": "47d537e84f174ee933ea3f4df9ea6fdbcbbc373bcb42fc92868b082f69871ae8",
+    "bytes": 83118,
+    "pages": 11,
+    "words": 1629,
+    "low_text_pages": 0,
+    "layout_words": 1996,
+    "layout_chars": 9994,
+    "layout_text_method": "pypdfium2",
+    "alias": "PN",
+    "collection": "Manuais",
+    "coverage": "Mapa PROFINET; ch29",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "scriptManual_SW5.11.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\scriptManual_SW5.11.pdf",
+    "sha256": "cd3d4b82563207c68b63ab78bee783770481a393998e886ef3ec0294b9178aba",
+    "bytes": 784591,
+    "pages": 149,
+    "words": 6662,
+    "low_text_pages": 3,
+    "layout_words": 32075,
+    "layout_chars": 215840,
+    "layout_text_method": "pypdfium2",
+    "alias": "SM511",
+    "collection": "Manuais",
+    "coverage": "API e semântica SW5.11; ch26–28",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "Universal Robots - Inspection And Maintenance Plan.mhtml",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\Universal Robots - Inspection And Maintenance Plan.mhtml",
+    "sha256": "54c68ea2da974c18816dd6aa96b34777728c137cb19bbddc09c85e45739b0361",
+    "bytes": 1121174,
+    "alias": "MAINT",
+    "collection": "Manuais",
+    "coverage": "Captura de manutenção; ch24",
+    "extraction_method": "email MIME + HTMLParser"
+  },
+  {
+    "name": "ur5_en.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\ur5_en.pdf",
+    "sha256": "e7d81bb0153c0afcb1a5ea83bfc1f50fc516509b046b126ca1f6a91a663b4fe7",
+    "bytes": 97396,
+    "pages": 1,
+    "words": 283,
+    "low_text_pages": 0,
+    "layout_words": 283,
+    "layout_chars": 1639,
+    "layout_text_method": "pypdfium2",
+    "alias": "UR5DS",
+    "collection": "Manuais",
+    "coverage": "Ficha UR5 histórica; ch22",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "ur-g3-safety-functions-20170509.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\ur-g3-safety-functions-20170509.pdf",
+    "sha256": "456a720c2df640f6df9405cf61de5aabc651ab928e5d1d0b68a1f2eda1f67211",
+    "bytes": 342702,
+    "pages": 10,
+    "words": 3629,
+    "low_text_pages": 0,
+    "layout_words": 3629,
+    "layout_chars": 21283,
+    "layout_text_method": "pypdfium2",
+    "alias": "SF3",
+    "collection": "Manuais",
+    "coverage": "Segurança CB3 histórica; ch08 e matriz",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "ursim_vmoracle_installation_guidev03_en.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\ursim_vmoracle_installation_guidev03_en.pdf",
+    "sha256": "f38bb567677fd133c9deee31da78b2f6cd56fdc709e71c856639340610b450c7",
+    "bytes": 2661967,
+    "pages": 24,
+    "words": 1847,
+    "low_text_pages": 2,
+    "layout_words": 1839,
+    "layout_chars": 11854,
+    "layout_text_method": "pypdfium2",
+    "alias": "VM",
+    "collection": "Manuais",
+    "coverage": "Virtualização URSim; ch23",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "99443_UR5e_User_Manual_pt_Global.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\99443_UR5e_User_Manual_pt_Global.pdf",
+    "sha256": "c877193535ccda9213ed02addb13d4f704e05c650bbd1f1e02855cc59e883820",
+    "bytes": 17897318,
+    "pages": 295,
+    "words": 12139,
+    "low_text_pages": 0,
+    "layout_words": 63677,
+    "layout_chars": 388191,
+    "layout_text_method": "pypdfium2",
+    "alias": "U5E",
+    "collection": "Manuais",
+    "coverage": "Hardware/PolyScope UR5e; ch21–28",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "Deployment_Workshop_Online.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\Deployment_Workshop_Online.pdf",
+    "sha256": "b6c1b1bc20cccc55200003bbf742195d87c473077a694330333e8218e34127fe",
+    "bytes": 1814961,
+    "pages": 50,
+    "words": 2500,
+    "low_text_pages": 13,
+    "layout_words": 2495,
+    "layout_chars": 15309,
+    "layout_text_method": "pypdfium2",
+    "alias": "DEP",
+    "collection": "Manuais",
+    "coverage": "Implantação e carga por estado; ch21/ch27",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "e-Series_Service_Manual_en_4.0.0.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\e-Series_Service_Manual_en_4.0.0.pdf",
+    "sha256": "dccc0978b18b0290b15f25933fe652ea952a4bd4e7d85079338708f3b1898ec4",
+    "bytes": 24621599,
+    "pages": 234,
+    "words": 22063,
+    "low_text_pages": 0,
+    "layout_words": 42388,
+    "layout_chars": 262211,
+    "layout_text_method": "pypdfium2",
+    "alias": "SVC4",
+    "collection": "Manuais",
+    "coverage": "Serviço e inspeção; ch23–25",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "08_03_2019-ur_safety_made_easy.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\08_03_2019-ur_safety_made_easy.pdf",
+    "sha256": "f398e31351591614dadfa5484b4801ab89311b8bca416943c950455773ef1a4c",
+    "bytes": 483608,
+    "pages": 2,
+    "words": 1808,
+    "low_text_pages": 0,
+    "layout_words": 1800,
+    "layout_chars": 11371,
+    "layout_text_method": "pypdfium2",
+    "alias": "SAFE19",
+    "collection": "Manuais",
+    "coverage": "Conceitos de segurança históricos; matriz",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "1000698.PDF",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\1000698.PDF",
+    "sha256": "45b8d9299b4c1c64ab9278dd99f642403a45d114feece014d150a9965c7425d3",
+    "bytes": 910124,
+    "pages": 2,
+    "words": 111,
+    "low_text_pages": 0,
+    "layout_words": 111,
+    "layout_chars": 618,
+    "layout_text_method": "pypdfium2",
+    "alias": "DWG1000698",
+    "collection": "Manuais",
+    "coverage": "Dimensional UR5e; ch22",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "1005703_1005747.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\1005703_1005747.pdf",
+    "sha256": "42252fa9288acf36aca26b349664639c62f0a596e3fe90b164d490e58fc75e57",
+    "bytes": 176421,
+    "pages": 1,
+    "words": 71,
+    "low_text_pages": 0,
+    "layout_words": 75,
+    "layout_chars": 337,
+    "layout_text_method": "pypdfium2",
+    "alias": "OEMDWG",
+    "collection": "Manuais",
+    "coverage": "Caixa OEM AC/DC; ch22",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "UR10_schematic_drawings_rev3.0.0.2.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\UR10_schematic_drawings_rev3.0.0.2.pdf",
+    "sha256": "1abe30f185daffcbfb6a66ab46b9798a882d5a8fd4bd5c27e8f59c97a870813a",
+    "bytes": 269699,
+    "pages": 19,
+    "words": 1611,
+    "low_text_pages": 0,
+    "layout_words": 1725,
+    "layout_chars": 8335,
+    "layout_text_method": "pypdfium2",
+    "alias": "UR10DWG",
+    "collection": "Manuais",
+    "coverage": "Esquema UR10 CB3; ch22",
+    "extraction_method": "pypdfium2"
+  },
+  {
+    "name": "24091.png",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\24091.png",
+    "sha256": "c690acda2f9efc4630804b28be80e651adb921f7ecb774289421dea61fce6d50",
+    "bytes": 151853,
+    "alias": "TPIMG",
+    "collection": "Manuais",
+    "coverage": "Imagem com cota188mm; ch22",
+    "extraction_method": "visual observation"
+  },
+  {
+    "name": "Script command Examples.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\Script command Examples.pdf",
+    "sha256": "91393028edce16ba0f95cee1b5e93fe4b6677c2444ed7e96d3add8bbcd34234c",
+    "pages": 30,
+    "words": 3044,
+    "chars": 23922,
+    "extraction_method": "pypdfium2",
+    "low_text_pages": [],
+    "alias": "EX",
+    "collection": "Referências complementares",
+    "coverage": "Revisão de exemplos; ch30"
+  },
+  {
+    "name": "Grau IP.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\Grau IP.pdf",
+    "sha256": "0e8c228f455c2216e3764ab40170bd95a50898d9f6144e46f00d2ce60708490e",
+    "pages": 3,
+    "words": 1834,
+    "chars": 11767,
+    "extraction_method": "pypdfium2",
+    "low_text_pages": [],
+    "alias": "IPG",
+    "collection": "Referências complementares",
+    "coverage": "ProteçãoIP geral; ch34"
+  },
+  {
+    "name": "IP.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\IP.pdf",
+    "sha256": "0e8c228f455c2216e3764ab40170bd95a50898d9f6144e46f00d2ce60708490e",
+    "pages": 3,
+    "words": 1834,
+    "chars": 11767,
+    "extraction_method": "pypdfium2",
+    "low_text_pages": [],
+    "alias": "IPD",
+    "collection": "Referências complementares",
+    "coverage": "Duplicata exata deIPG; ch34",
+    "duplicate_of": "IPG"
+  },
+  {
+    "name": "scriptManual.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\scriptManual.pdf",
+    "sha256": "f5cb8a30064fc293c703ce0a24a3c3059dfc1a83d6f0625a10c48784be61640b",
+    "pages": 66,
+    "words": 13181,
+    "chars": 77159,
+    "extraction_method": "pypdfium2",
+    "low_text_pages": [
+      1
+    ],
+    "alias": "SM341",
+    "collection": "Referências complementares",
+    "coverage": "URScript3.4.1; ch30"
+  },
+  {
+    "name": "calibrationManual.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\calibrationManual.pdf",
+    "sha256": "0f925c9a923478e009813010b6f0523cbf7a88c3c92c0bcf9d0f8284b2d7c582",
+    "pages": 35,
+    "words": 7788,
+    "chars": 39564,
+    "extraction_method": "pypdfium2",
+    "low_text_pages": [
+      8
+    ],
+    "alias": "CAL",
+    "collection": "Referências complementares",
+    "coverage": "CalibraçãoCB3; ch33"
+  },
+  {
+    "name": "Modbus Server (Register Adresses) - 16377.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\Modbus Server (Register Adresses) - 16377.pdf",
+    "sha256": "1388fc8d90b7eabb8809c0c3e63954c4a175778c4747fc308c0034822e421df2",
+    "pages": 8,
+    "words": 1983,
+    "chars": 11338,
+    "extraction_method": "pypdfium2",
+    "low_text_pages": [
+      8
+    ],
+    "alias": "MBS",
+    "collection": "Referências complementares",
+    "coverage": "MapaModbus; ch31"
+  },
+  {
+    "name": "Dashboard Server, port 29999 - 15690.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\Dashboard Server, port 29999 - 15690.pdf",
+    "sha256": "19c5aa2e6f2551c8e9ac2af56f6090fe1c71682d6f6195d7fa91876adddafd08",
+    "pages": 8,
+    "words": 1036,
+    "chars": 5632,
+    "extraction_method": "pypdfium2",
+    "low_text_pages": [
+      8
+    ],
+    "alias": "DBS",
+    "collection": "Referências complementares",
+    "coverage": "Dashboard legado; ch32"
+  },
+  {
+    "name": "Tightening Torques for the screws at each joint.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\Tightening Torques for the screws at each joint.pdf",
+    "sha256": "625cc85bc03c550bb2a14f30703a48c356b35a2b9eeca50e8e734224ec4009f4",
+    "pages": 3,
+    "words": 341,
+    "chars": 1757,
+    "extraction_method": "pypdfium2",
+    "low_text_pages": [
+      3
+    ],
+    "alias": "TQ",
+    "collection": "Referências complementares",
+    "coverage": "Torques por conexão; ch35"
+  },
+  {
+    "name": "UsingMagicFiles.pdf",
+    "path": "D:\\Onedrive\\Robotica\\Manuais\\UR\\Manuais\\UsingMagicFiles.pdf",
+    "sha256": "068b2f1b1606dfea341640d1f923493445277e59c8eb807315bc083181d40235",
+    "pages": 2,
+    "words": 672,
+    "chars": 3959,
+    "extraction_method": "pypdfium2",
+    "low_text_pages": [],
+    "alias": "MAG",
+    "collection": "Referências complementares",
+    "coverage": "MagicFiles histórico; ch23"
+  },
+  {
+    "name": "UR3_User_Manual_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\UR3_User_Manual_en.pdf",
+    "sha256": "d745bfb581cea071a6525620b2a3b80639a5ddf89d26e64b113a436285ee5404",
+    "bytes": 14607475,
+    "pages": 222,
+    "words": 48553,
+    "chars": 291767,
+    "low_text_pages": [
+      1
+    ],
+    "alias": "N01",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Copyright © 2009–2021 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2021 by Universal Robots A/S.",
+      "Copyright",
+      "Part II PolyScope Manual 89",
+      "1.22.4. PolyScope Programming Interface 114"
+    ],
+    "coverage_chapters": [
+      36,
+      37
+    ]
+  },
+  {
+    "name": "UR10_User_Manual_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\UR10_User_Manual_en.pdf",
+    "sha256": "1024c2098faca43d40aab2d083a6a92c7b257fe882daed458c08ec1811b34f55",
+    "bytes": 14640846,
+    "pages": 222,
+    "words": 48534,
+    "chars": 291877,
+    "low_text_pages": [
+      1
+    ],
+    "alias": "N02",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Copyright © 2009–2021 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2021 by Universal Robots A/S.",
+      "Copyright",
+      "Part II PolyScope Manual 89",
+      "1.22.4. PolyScope Programming Interface 114"
+    ],
+    "coverage_chapters": [
+      36,
+      37
+    ]
+  },
+  {
+    "name": "UR10_Service_Manual_en (1).pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\UR10_Service_Manual_en (1).pdf",
+    "sha256": "c7bb43121d3d129e39265c7049e8bb9541ce35cc5be207cc581988cd2fec9cc4",
+    "bytes": 29050678,
+    "pages": 242,
+    "words": 39994,
+    "chars": 250831,
+    "low_text_pages": [],
+    "alias": "N03",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Revision:",
+      "Copyright © 2009–2019 by Universal Robots A/S",
+      "Copyright",
+      "6. Software 81",
+      "Copyright © 2009–2021 by Universal Robots A/S. All rights reserved."
+    ],
+    "coverage_chapters": [
+      37
+    ]
+  },
+  {
+    "name": "UR3_Service_Manual_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\UR3_Service_Manual_en.pdf",
+    "sha256": "2c1bb15caa25248e05e25fbfee146d21006cb0eec501fc4dfb11fdf269c7eded",
+    "bytes": 32955579,
+    "pages": 229,
+    "words": 38803,
+    "chars": 242857,
+    "low_text_pages": [],
+    "alias": "N04",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Revision:",
+      "Copyright © 2009–2019 by Universal Robots A/S",
+      "Copyright",
+      "6. Software 78",
+      "Copyright © 2009–2021 by Universal Robots A/S. All rights reserved."
+    ],
+    "coverage_chapters": [
+      37
+    ]
+  },
+  {
+    "name": "UR5_Service_Manual_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\UR5_Service_Manual_en.pdf",
+    "sha256": "72a114892d8a23e80c7cdbdbcf657a451a31501fd1ba7d24f20989a779106dc9",
+    "bytes": 31338298,
+    "pages": 236,
+    "words": 39365,
+    "chars": 246942,
+    "low_text_pages": [],
+    "alias": "N05",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Revision:",
+      "Copyright © 2009–2019 by Universal Robots A/S",
+      "Copyright",
+      "6. Software 80",
+      "Copyright © 2009–2021 by Universal Robots A/S. All rights reserved."
+    ],
+    "coverage_chapters": [
+      37
+    ]
+  },
+  {
+    "name": "UR5_User_Manual_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\UR5_User_Manual_en.pdf",
+    "sha256": "e6d4f1454143a949c153648ed2f7507b295284d96cde932e487b60047a53150c",
+    "bytes": 14596970,
+    "pages": 222,
+    "words": 48529,
+    "chars": 291611,
+    "low_text_pages": [
+      1
+    ],
+    "alias": "N06",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Copyright © 2009–2021 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2021 by Universal Robots A/S.",
+      "Copyright",
+      "Part II PolyScope Manual 89",
+      "1.22.4. PolyScope Programming Interface 114"
+    ],
+    "coverage_chapters": [
+      36,
+      37
+    ]
+  },
+  {
+    "name": "UR10_Service_Manual_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\UR10_Service_Manual_en.pdf",
+    "sha256": "c7bb43121d3d129e39265c7049e8bb9541ce35cc5be207cc581988cd2fec9cc4",
+    "bytes": 29050678,
+    "pages": 242,
+    "words": 39994,
+    "chars": 250831,
+    "low_text_pages": [],
+    "alias": "N07",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Revision:",
+      "Copyright © 2009–2019 by Universal Robots A/S",
+      "Copyright",
+      "6. Software 81",
+      "Copyright © 2009–2021 by Universal Robots A/S. All rights reserved."
+    ],
+    "coverage_chapters": [
+      37
+    ],
+    "duplicate_of": "N03"
+  },
+  {
+    "name": "e-Series_Service_Manual_en (1).pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\e-Series_Service_Manual_en (1).pdf",
+    "sha256": "b1f5617c2eb1bb885a1444ef2b4b87b8de2e78f10d4c8eaf1caa53c4fe0b183c",
+    "bytes": 22830834,
+    "pages": 135,
+    "words": 17151,
+    "chars": 104644,
+    "low_text_pages": [],
+    "alias": "N08",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) SW 5.26 / 10.12",
+      "Copyright © 2009–2026 by Universal Robots A/S. All rights reserved.",
+      "1. Copyright and Disclaimers 6",
+      "5.2.10. Joint Verification PolyScope 5 43",
+      "5.2.11. Joint Verification PolyScope X 45",
+      "Copyright",
+      "6. Software 79",
+      "6.3.1. PolyScope 5 88",
+      "6.3.2. PolyScope X 89",
+      "1. Copyright and Disclaimers",
+      "Copyright © 2009–2026 by Universal Robots A/S."
+    ],
+    "coverage_chapters": [
+      38,
+      39,
+      54
+    ]
+  },
+  {
+    "name": "Service_Manual_UR-Series_en (1).pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\Service_Manual_UR-Series_en (1).pdf",
+    "sha256": "4119662fde99d048582b0b89acdeb2344c62e81916f3d9309c79a754f6730e6a",
+    "bytes": 11346388,
+    "pages": 97,
+    "words": 12292,
+    "chars": 75638,
+    "low_text_pages": [],
+    "alias": "N09",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) SW 5.26 / 10.12",
+      "Copyright © 2009–2026 by Universal Robots A/S. All rights reserved.",
+      "1. Copyright and Disclaimers 5",
+      "5.2.7. Joint Verification PolyScope 5 35",
+      "5.2.8. Joint Verification PolyScope X 37",
+      "6. Software 51",
+      "Copyright",
+      "6.3.1. PolyScope 5 58",
+      "6.3.2. PolyScope X 59",
+      "1. Copyright and Disclaimers",
+      "Copyright © 2009–2026 by Universal Robots A/S."
+    ],
+    "coverage_chapters": [
+      38,
+      39,
+      54
+    ]
+  },
+  {
+    "name": "script_directory_Poly5 (1).pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\script_directory_Poly5 (1).pdf",
+    "sha256": "131210ed82851889f2a6c17c7e1b35ee7a1602d4a3f6120ffd25ca3151c6e22f",
+    "bytes": 1592959,
+    "pages": 183,
+    "words": 43368,
+    "chars": 289191,
+    "low_text_pages": [
+      1,
+      3,
+      183
+    ],
+    "alias": "N10",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "PolyScope 5",
+      "Copyright © 2009–2026 by Universal Robots A/S.",
+      "14. Motion Version 25",
+      "Copyright © 2009–2026 by Universal Robots A/S. All rights reserved.",
+      "Copyright"
+    ],
+    "coverage_chapters": [
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  {
+    "name": "UR Calibration Guide Combined.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\UR Calibration Guide Combined.pdf",
+    "sha256": "bfcbd9d8727d99682612e95c231f833b9330ffac00c0946f7e0f9776b2106c40",
+    "bytes": 8233946,
+    "pages": 61,
+    "words": 6813,
+    "chars": 42939,
+    "low_text_pages": [
+      1
+    ],
+    "alias": "N11",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5/X",
+      "3.3. Preparations PolyScope 5 10",
+      "3.4. Preparations for Calibration in PolyScope X 19",
+      "5. Dual Robot Calibration for PolyScope 5: Application 27",
+      "6. Dual Robot Calibration for PolyScope X: Application 35",
+      "Copyright",
+      "9. Copyright and Disclaimers 56"
+    ],
+    "coverage_chapters": [
+      40
+    ]
+  },
+  {
+    "name": "e-Series_Software_Handbook_en_Global (1).pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\e-Series_Software_Handbook_en_Global (1).pdf",
+    "sha256": "9f646c13229e33630fcd78308c1438f9a9e88a47438d08db2a5fadb3f7d88c8a",
+    "bytes": 13361031,
+    "pages": 257,
+    "words": 46407,
+    "chars": 277765,
+    "low_text_pages": [
+      1
+    ],
+    "alias": "N12",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) SW 5.26",
+      "PolyScope 5",
+      "Copyright © 2009–2026 by Universal Robots A/S.",
+      "Copyright",
+      "1.4. PolyScope Overview 13",
+      "1.4.1. Icons/Tabs On PolyScope 14",
+      "Copyright © 2009–2026 by Universal Robots A/S. All rights reserved.",
+      "5.10. Motion Version 190",
+      "All functions for using PolyScope can be found in this manual."
+    ],
+    "coverage_chapters": [
+      42,
+      45,
+      46,
+      54
+    ]
+  },
+  {
+    "name": "740-949-00_High Torque Screwdriving_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\740-949-00_High Torque Screwdriving_User_Manual_en_Global.pdf",
+    "sha256": "aea2ca797d9ca7fe15701f0ea4ea3609c31285f987b20d1182ceeb38d9141953",
+    "bytes": 4640204,
+    "pages": 32,
+    "words": 4985,
+    "chars": 31327,
+    "low_text_pages": [
+      32
+    ],
+    "alias": "N13",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "An advanced command and installation setup in PolyScope for setting up"
+    ],
+    "coverage_chapters": [
+      51
+    ]
+  },
+  {
+    "name": "723-162-00_Connectivity Kit_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\723-162-00_Connectivity Kit_en.pdf",
+    "sha256": "ca783ac8508e0170b18e68c83fff304d46b455404fd47ba13107e9440a8b44e5",
+    "bytes": 1982105,
+    "pages": 38,
+    "words": 4521,
+    "chars": 29503,
+    "low_text_pages": [
+      1,
+      3,
+      9,
+      38
+    ],
+    "alias": "N14",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "11. Copyright and Disclaimers 32",
+      "User Manual Connectivity Kit Copyright © 2009–2026 by Universal Robots A/S. All rights reserved.",
+      "Copyright",
+      "Copyright © 2009–2026 by Universal Robots A/S. All rights reserved."
+    ],
+    "coverage_chapters": [
+      49
+    ]
+  },
+  {
+    "name": "740-949-00_Base-Mounted Range Extender, 40m_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\740-949-00_Base-Mounted Range Extender, 40m_User_Manual_en_Global.pdf",
+    "sha256": "ce01cf7b9be5898effe9dcb44663d726346dfce0fecbca87bb287ec7e7cb2428",
+    "bytes": 2816988,
+    "pages": 37,
+    "words": 6150,
+    "chars": 40361,
+    "low_text_pages": [
+      37
+    ],
+    "alias": "N15",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2026 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2026 by Universal Robots A/S.",
+      "Copyright"
+    ],
+    "coverage_chapters": [
+      48
+    ]
+  },
+  {
+    "name": "716-197-00_OEM_Control_Box_Installation_Guide_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\716-197-00_OEM_Control_Box_Installation_Guide_en.pdf",
+    "sha256": "63dbab1dd6a9b6abf4c065812d12b77a45b6de9035d7e12c6d13adb2d58e5084",
+    "bytes": 13679292,
+    "pages": 50,
+    "words": 6247,
+    "chars": 39020,
+    "low_text_pages": [
+      50
+    ],
+    "alias": "N16",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2019–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2019–2025 by Universal Robots A/S.",
+      "Copyright"
+    ],
+    "coverage_chapters": [
+      47
+    ]
+  },
+  {
+    "name": "726-540-00_Robot Cable_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\726-540-00_Robot Cable_User_Manual_en_Global.pdf",
+    "sha256": "1d709af46953c2e9f8a7d43bb30abda904fb3014fa0be363d6f52b71e2257d69",
+    "bytes": 6320875,
+    "pages": 30,
+    "words": 7963,
+    "chars": 48308,
+    "low_text_pages": [
+      1,
+      30
+    ],
+    "alias": "N17",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Copyright © 2009–2026 by Universal Robots A/S. All rights reserved.",
+      "Copyright"
+    ],
+    "coverage_chapters": [
+      48
+    ]
+  },
+  {
+    "name": "99373_IMMI_installation_guide_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\99373_IMMI_installation_guide_en.pdf",
+    "sha256": "d7711112a372c63a8ad2df3b54b56dd5949269de3b7258d87f80954e5d5bf488",
+    "bytes": 2701130,
+    "pages": 41,
+    "words": 6201,
+    "chars": 38704,
+    "low_text_pages": [
+      41
+    ],
+    "alias": "N18",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2019–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2019–2025 by Universal Robots A/S.",
+      "Copyright",
+      "12. Copyright and Disclaimers 33"
+    ],
+    "coverage_chapters": [
+      50
+    ]
+  },
+  {
+    "name": "718-625-00_3PETP_installation_guide_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\718-625-00_3PETP_installation_guide_en.pdf",
+    "sha256": "b84730328a6ca35378c72edf9240a415c3d29d4b02014134b7cc3ff2e62dd1fa",
+    "bytes": 5190704,
+    "pages": 24,
+    "words": 3174,
+    "chars": 20345,
+    "low_text_pages": [
+      2
+    ],
+    "alias": "N19",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Copyright",
+      "2. Copyright and disclaimers 6",
+      "2. Copyright and disclaimers",
+      "Copyright The information contained herein is the property of Universal Robots A/S and shall not be",
+      "Copyright © 2019–2020 by Universal Robots A/S."
+    ],
+    "coverage_chapters": [
+      46
+    ]
+  },
+  {
+    "name": "738-379-00_E-Series_e-Series_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\738-379-00_E-Series_e-Series_en_Global.pdf",
+    "sha256": "85846a2810e10292518475bbde9622257e246a935aa425b6d11a8c46671e0484",
+    "bytes": 3909985,
+    "pages": 42,
+    "words": 3768,
+    "chars": 23521,
+    "low_text_pages": [
+      1,
+      2,
+      20,
+      28,
+      42
+    ],
+    "alias": "N20",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Joint Replacement Manual 5 E-Series Copyright",
+      "Joint Replacement Manual E-Series Copyright"
+    ],
+    "coverage_chapters": [
+      39
+    ]
+  },
+  {
+    "name": "738-380-00_UR20_UR20_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\738-380-00_UR20_UR20_en_Global.pdf",
+    "sha256": "744c628ae45e5dae4e84ee5324d0b04306adeaeea0a5af463a308a74db3f6fb6",
+    "bytes": 3413025,
+    "pages": 34,
+    "words": 3448,
+    "chars": 21749,
+    "low_text_pages": [
+      2,
+      18,
+      34
+    ],
+    "alias": "N21",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Joint Replacement Manual 5 UR20 Copyright",
+      "Joint Replacement Manual UR20 Copyright"
+    ],
+    "coverage_chapters": [
+      39
+    ]
+  },
+  {
+    "name": "ErrorCodes.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\ErrorCodes.pdf",
+    "sha256": "27db117c4c2e0fbc9328e74241f5f3356d1dd1d46b6a5a10f3b14ef7df87b0cd",
+    "bytes": 1466797,
+    "pages": 174,
+    "words": 56558,
+    "chars": 369968,
+    "low_text_pages": [
+      1,
+      174
+    ],
+    "alias": "N22",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Copyright © 2009–2026 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2026 by Universal Robots A/S.",
+      "Copyright",
+      "1.103. C203 PolyScope detected a mismatch between the shown and (to be) applied safety"
+    ],
+    "coverage_chapters": [
+      52
+    ]
+  },
+  {
+    "name": "UR Calibration Manual Combined.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\UR Calibration Manual Combined.pdf",
+    "sha256": "87e29cc154b875667bedd5a3069d6beb07468efeded7e6c2834def89b0d3db4f",
+    "bytes": 2928123,
+    "pages": 39,
+    "words": 4699,
+    "chars": 29657,
+    "low_text_pages": [],
+    "alias": "N23",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "8. Copyright and Disclaimers 34",
+      "Copyright",
+      "Copyright © 2019–2025 by Universal Robots A/S. All rights reserved."
+    ],
+    "coverage_chapters": [
+      40
+    ]
+  },
+  {
+    "name": "e-Series_Service_Manual_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\e-Series_Service_Manual_en.pdf",
+    "sha256": "c28cb6b16c9c84b2cb5a3dd3a2a4d56ac2e18889d068a8176f05caa62c45c589",
+    "bytes": 23243459,
+    "pages": 126,
+    "words": 14695,
+    "chars": 90322,
+    "low_text_pages": [],
+    "alias": "N24",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) SW 5.25",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "1. Copyright and Disclaimers 6",
+      "2.3. Copyright, Warranty and Disclaimers 2",
+      "Copyright",
+      "6. Software 81",
+      "1. Copyright and Disclaimers",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "2.3. Copyright, Warranty and Disclaimers"
+    ],
+    "coverage_chapters": [
+      38,
+      54
+    ]
+  },
+  {
+    "name": "Service_Manual_UR-Series_en.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\Service_Manual_UR-Series_en.pdf",
+    "sha256": "a0f341d7ea69528c8b39e4914cb0fc2c6b740c2bec10969ea26a1a5b64de6687",
+    "bytes": 9149966,
+    "pages": 66,
+    "words": 9531,
+    "chars": 58475,
+    "low_text_pages": [
+      66
+    ],
+    "alias": "N25",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) SW 5.25",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "1.3. Copyright, Warranty and Disclaimers 2",
+      "5. Software 37",
+      "Copyright",
+      "1.3. Copyright, Warranty and Disclaimers",
+      "Copyright © 2009–2025 by Universal Robots A/S."
+    ],
+    "coverage_chapters": [
+      38,
+      54
+    ]
+  },
+  {
+    "name": "script_directory_Poly5.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\script_directory_Poly5.pdf",
+    "sha256": "6668abb1e0d7667487b0aead5a4e514eb41bbc346c15eafd03221e58729ade17",
+    "bytes": 1556563,
+    "pages": 178,
+    "words": 41697,
+    "chars": 277600,
+    "low_text_pages": [
+      1,
+      3,
+      178
+    ],
+    "alias": "N26",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "14. Motion Version 25",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright"
+    ],
+    "coverage_chapters": [
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  {
+    "name": "e-Series_Software_Handbook_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\e-Series_Software_Handbook_en_Global.pdf",
+    "sha256": "1a299ecc9b35aa4a80d3d54a579efd6852664a95dbb637b6e70fcd80564ff86d",
+    "bytes": 10933819,
+    "pages": 257,
+    "words": 46194,
+    "chars": 276430,
+    "low_text_pages": [
+      1
+    ],
+    "alias": "N27",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) SW 5.25",
+      "PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "1.4. PolyScope Overview 13",
+      "1.4.1. Icons/Tabs On PolyScope 14",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "5.10. Motion Version 191",
+      "All functions for using PolyScope can be found in this manual."
+    ],
+    "coverage_chapters": [
+      42,
+      45,
+      46,
+      54
+    ]
+  },
+  {
+    "name": "718-786-00_UR30_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\718-786-00_UR30_User_Manual_en_Global.pdf",
+    "sha256": "7879cb16baad902997bd4d9dd3735b3200a1bef3b86a9fac7ef291bcc6c3952a",
+    "bytes": 19641879,
+    "pages": 247,
+    "words": 49342,
+    "chars": 297466,
+    "low_text_pages": [
+      1,
+      247
+    ],
+    "alias": "N28",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 26"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  },
+  {
+    "name": "762-375-00_UR18_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\762-375-00_UR18_User_Manual_en_Global.pdf",
+    "sha256": "13fada5a727bc73d96366cf32fb8ec9501e44120d30019c38d480c0b75c489e8",
+    "bytes": 17238956,
+    "pages": 245,
+    "words": 48608,
+    "chars": 292645,
+    "low_text_pages": [
+      1,
+      245
+    ],
+    "alias": "N29",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 26"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  },
+  {
+    "name": "718-818-00_UR20_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\718-818-00_UR20_User_Manual_en_Global.pdf",
+    "sha256": "376f709f8631245043032ba7413f2cccb5f5e52b1c6d45ddd0c219ead7b33394",
+    "bytes": 17416870,
+    "pages": 255,
+    "words": 49650,
+    "chars": 299456,
+    "low_text_pages": [
+      1,
+      255
+    ],
+    "alias": "N30",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 27"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  },
+  {
+    "name": "718-890-00_UR15_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\718-890-00_UR15_User_Manual_en_Global.pdf",
+    "sha256": "2d75eaa5a9ad4134dce3aceeb8fe8858e7818f8cafe8c812050c6ccacbab5215",
+    "bytes": 17533121,
+    "pages": 247,
+    "words": 49358,
+    "chars": 297535,
+    "low_text_pages": [
+      1,
+      247
+    ],
+    "alias": "N31",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 26"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  },
+  {
+    "name": "762-404-00_UR8 Long_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\762-404-00_UR8 Long_User_Manual_en_Global.pdf",
+    "sha256": "a98fe12b5fcbd04bddf17a7cb3d4aaf8eddbc4beaf929b229a85dcf97a506626",
+    "bytes": 20315533,
+    "pages": 249,
+    "words": 49842,
+    "chars": 299367,
+    "low_text_pages": [
+      1,
+      249
+    ],
+    "alias": "N32",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 26"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  },
+  {
+    "name": "733-429-00_UR12e_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\733-429-00_UR12e_User_Manual_en_Global.pdf",
+    "sha256": "629db5862ccf9927d7da1b8e496625e3a63c9e163d8d7f7f0002d0370d1632c4",
+    "bytes": 20794573,
+    "pages": 239,
+    "words": 48420,
+    "chars": 292429,
+    "low_text_pages": [
+      1,
+      239
+    ],
+    "alias": "N33",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 26"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  },
+  {
+    "name": "711-102-00_UR16e_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\711-102-00_UR16e_User_Manual_en_Global.pdf",
+    "sha256": "5200c68c6612f9fe6adbcede618248fb0eb6812b8934b6331d93ccdbc30192af",
+    "bytes": 20526537,
+    "pages": 241,
+    "words": 48440,
+    "chars": 292567,
+    "low_text_pages": [
+      1,
+      241
+    ],
+    "alias": "N34",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 26"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  },
+  {
+    "name": "711-039-00_UR10e_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\711-039-00_UR10e_User_Manual_en_Global.pdf",
+    "sha256": "a643098d32f3b9d5c5a1002fc823bcd166b6ac0d0f3767fb940466371b79a040",
+    "bytes": 21129817,
+    "pages": 247,
+    "words": 48858,
+    "chars": 295074,
+    "low_text_pages": [
+      1,
+      247
+    ],
+    "alias": "N35",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 26"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  },
+  {
+    "name": "733-466-00_UR7e_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\733-466-00_UR7e_User_Manual_en_Global.pdf",
+    "sha256": "99d49c789affaf62cc99128403bee6b12607cdced7c398aed79df44b544a194f",
+    "bytes": 18227856,
+    "pages": 235,
+    "words": 48103,
+    "chars": 290203,
+    "low_text_pages": [
+      1,
+      235
+    ],
+    "alias": "N36",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 26"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  },
+  {
+    "name": "710-965-00_UR5e_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\710-965-00_UR5e_User_Manual_en_Global.pdf",
+    "sha256": "998a4a3da160ee11bd128f851e139e0d05f12a0dbd7c896fd80b543f64d5b68a",
+    "bytes": 20738663,
+    "pages": 239,
+    "words": 48420,
+    "chars": 292125,
+    "low_text_pages": [
+      1,
+      239
+    ],
+    "alias": "N37",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 26"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  },
+  {
+    "name": "710-943-00_UR3e_User_Manual_en_Global.pdf",
+    "path": "C:\\Users\\minin\\Downloads\\UR Manuals\\710-943-00_UR3e_User_Manual_en_Global.pdf",
+    "sha256": "3e3da3988e67252b67d2effab76867c6f3d01359443e85ffbe8a1d9433dce900",
+    "bytes": 21064161,
+    "pages": 243,
+    "words": 48569,
+    "chars": 293042,
+    "low_text_pages": [
+      1,
+      243
+    ],
+    "alias": "N38",
+    "collection": "Lote ampliado UR Manuals",
+    "extraction_method": "book-to-skill/pypdf plus pypdfium2 queryable pages",
+    "version_evidence": [
+      "Original instructions (en) PolyScope 5",
+      "Copyright © 2009–2025 by Universal Robots A/S. All rights reserved.",
+      "Copyright © 2009–2025 by Universal Robots A/S.",
+      "Copyright",
+      "The Universal Robots patented programming interface, PolyScope, allows you to create,",
+      "• PolyScope Software Handbook with descriptions and instructions for the software",
+      "3.2.4. PolyScope Overview 26"
+    ],
+    "coverage_chapters": [
+      36,
+      53
+    ]
+  }
+]

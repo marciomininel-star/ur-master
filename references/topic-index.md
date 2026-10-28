@@ -1,0 +1,63 @@
+# Índice completo de tópicos
+
+- **3PE,Manual/Automatic,segurança por versão** → ch46.
+- **Aparafusamento,alto torque,steady,fast-steady** → ch51.
+- **Assemblies customizadas,FlexibleEtherNet/IP,FC23** → ch44.
+- **Assignment, def, função, lista, return, URScript** → ch02; seleção gráfica → ch12.
+- **Auto initialize, auto start, Auto-Move, BeforeStart, default.installation, Init Variables** → ch10.
+- **Backdrive, blend, Circle Move, Edit Pose, jogging, linked waypoints, MoveJ/L/P/C, velocidade** → ch09.
+- **Backup5.26,URUP,PolyScopeX,MagicFiles** → ch54.
+- **Banco de registradores, direção input/output, handshake PLC** → ch17; Modbus → ch14; RTDE → ch19.
+- **Barreira, encoder, quadrature, ticks/m, tracking** → ch06.
+- **Base, câmera, d2r, get_actual_tcp_pose, pose_add/inv/sub/trans, RPY, vetor de rotação** → ch03.
+- **Buffer, Box, Line/Square/List pattern, PalletSequence, PatternPoint, paletização** → ch11; processo em palete → ch04.
+- **Cabos,HighFlex,RangeExtender40m** → ch48.
+- **Calibração, caixa OEM, cotas, UR5/UR5e/UR10CB3** → ch22/ch23/ch25.
+- **Calibração, DH, CTP, key-waypoints, Go/NoGo** → ch33.
+- **Calibração5/X,Leader/Follower,Go1.5/NoGo3.5** → ch40.
+- **Carga, CoG, payload, set_payload, set_payload_cog, TCP** → ch05.
+- **Cliente/servidor, endpoint, framing, socket_read_ascii_float** → ch16 e ch18.
+- **Comissionamento, instalação, montagem, ensaios** → ch21/ch22.
+- **Compliance, Event, force(), Force Frame/Motion/Point/Simple, thread** → ch07.
+- **ConnectivityKit,RUT951,VLAN,DHCP** → ch49.
+- **Dashboard legado, load/play/stop/pause, versão3.3** → ch32.
+- **Dashboard, 29999, Remote Control, load/play, SFTP/SSH, arquivos** → ch15.
+- **Diagnóstico, C153, parada protetiva, reparação** → ch25.
+- **DirectTorque,dinâmica,wrench_trans,sensorF/Texterno** → ch43.
+- **ErrorCodes5.26,C153,C343,C746** → ch52.
+- **EtherNet/IP, Adapter/Scanner, RPI, PROFINET, IO-Device, GSDML/UDT** → ch17.
+- **Feature, Line/Plane/Point, UR_1_var, relocalização** → ch04.
+- **Fluxograma, nomeação, pastas, qualidade** → ch01; inspeção a cada quinta peça → ch12.
+- **GrauIP, poeira, respingos, IP54, proteçãoambiental** → ch34.
+- **I/O Setup, Set, Wait** → ch01; APIs → ch02; Safety I/O → ch08.
+- **Imagem, mídia, restauração, downgrade, VDI** → ch23.
+- **IMMI,EUROMAP67,MAF,injeção** → ch50.
+- **Implantação, Magic files, backup, logs, URSim, suporte** → ch13.
+- **Inspeção, filtros, limpeza, ESD, torque** → ch24/ch25.
+- **Interpreter, critical, matriz, escopo, arrays por valor** → ch26.
+- **Inércia, set_target_payload, servoj, processpath** → ch27.
+- **IP, máscara, loopback, Modbus 502, 16 bits, escala** → ch14.
+- **JointReplacement,torque,clamp,verificação** → ch39.
+- **Listas,capacity,struct,make_list,métodos** → ch41.
+- **Loop, Switch/Case/Default, operador, limpeza a cada sete peças** → ch12.
+- **MagicFiles, USB, backup/upload, screenshot** → ch23.
+- **MapaModbus, signed16, mrad, décimosdemm, base0** → ch31.
+- **ModelosUR3/5/10CB3,UR3e/5e/7e/10e/12e/16e,UR8Long/15/18/20/30** → ch36.
+- **Montagem,fixação,curva de carga,comissionamento** → ch53.
+- **MotionVersion2,OptiMove,optimovej/l** → ch42.
+- **Máscaras, offsets, PN, bit32/byte4** → ch29.
+- **OEMAC/DC,FlexTail,ventilação** → ch47.
+- **PolyScope5GUI,Remote/Local,UntilContact** → ch45.
+- **Primary/Secondary/Real Time, 30001–30003, encode** → ch18.
+- **Python 2/3, XML-RPC, rpc_factory, register_function, servidor** → ch20.
+- **Recovery, Reduced, Safety Planes, Tool Direction/Position, Joint Limits** → ch08.
+- **Retomada, waypoint relativo, primeiro movimento** → ch10 e ch03.
+- **RTDE, 30004, recipe, input_double_register, watchdog** → ch19.
+- **SafeBrakeSystem,intercâmbio de juntas,serviço5.26** → ch38.
+- **SerialCB3,controlador3.0/3.1/3.2** → ch37.
+- **Socket timeout, GP register, read_port_register** → ch28.
+- **Torques, aperto, tampas, fixadores, UR3/5/10** → ch35.
+- **URScript3.4.1, exemplos,125Hz/8ms, legado** → ch30.
+- **Versões, fontes, divergências e cobertura** → [sources.md](../sources.md).
+
+Capítulos e links em [SKILL.md](../SKILL.md).
